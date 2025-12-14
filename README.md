@@ -1,18 +1,19 @@
-Project Name:Netflix Clone
-Description:This Project demonstrates my skills in HTML,CSS,Javascript technologies.
+## Project Name:Netflix Clone
+## Description:
+This Project demonstrates my skills in HTML,CSS,Javascript technologies.
 
-Techologies:
+## Techologies:
 ->HTML
 ->CSS
 ->Javascript
 
-Features:
+## Features:
 => Clean UI
 => Replicate of Nextflix
 
-How to run:
+## How to run:
 1.Clone this repository
 2.Open the project in browser
 
-Author:
+## Author:
 Jalla Lavanya
